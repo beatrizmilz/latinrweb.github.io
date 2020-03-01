@@ -23,4 +23,6 @@ ref: conferencias
 
 * SatRday Concepcion. Concepción, Chile.
 
+* RDay. Curitiba, Brasil.
+
 Si conoces un evento que no esta en la lista, envianos un email a [latinr.conf@gmail.com](mailto:latinr.conf@gmail.com).
